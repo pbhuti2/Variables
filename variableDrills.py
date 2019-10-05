@@ -75,7 +75,7 @@ smart = True
 
 print(smart)
 #18) Make a variable called i that is set to done. And print the variable.
-i = "done"
+i = done
 
 print(i)
 #19) Make a variable called j that is set to False. And print the variable.
@@ -83,14 +83,14 @@ j = False
 
 print(j)
 #20) Make a variable called almostDone that is set to True. And print the variable.
-almostdone = True
+almostDone = True
 
-print(almostdone)
+print(almostDone)
 '''LISTS'''
 #21) Make a list called listInt of 5 integer variables.
 listInt = [1, 2, 3, 4, 5]
 #22) Print the 3rd item in listInt, using indexes.
-print(listInt[3])
+print(listInt[2])
 #23) Make a list called listString of 5 string variables.
 listString = ["1","2","3","4","5"]
 #24) Print the 4th item in listString, using indexes.
